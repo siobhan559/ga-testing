@@ -1,0 +1,152 @@
+// =============================================================================
+// Quire-contributors.scss
+// -----------------------------------------------------------------------------
+// Styles for the contributors partial and shortcode
+// .quire-contributors-list is the list-level element
+// .quire-contributor is the individual contributor element
+
+// .quire-contributors-list
+// -----------------------------------------------------------------------------
+.quire-contributors-list,
+.content ul.quire-contributors-list {
+  list-style-type: none;
+  margin-left: 0;
+
+  &.align-right {
+    text-align: right;
+    margin-right: 2rem;
+  }
+  &.align-center {
+    text-align: center;
+  }
+
+  .title {
+    color: background-color-text($content-background-color);
+    @media print {
+      color: $print-text-color;
+    }
+  }
+
+  li.quire-contributor {
+    margin-left: 0;
+    padding-inline: 0;
+  }
+
+  &.initials {
+    li.quire-contributor__name {
+      display: inline;
+      margin-left: 0;
+      &::before {
+        content: '';
+      }
+    }
+  }
+
+  &.name-title-block {
+    display: flex;
+    flex-wrap: wrap;
+    .quire-contributor {
+      margin-right: 2rem;
+    }
+    .quire-contributor__title,
+    .quire-contributor__affiliation {
+      display: block;
+      font-style: italic;
+    }
+    &.align-right {
+      justify-content: flex-end;
+      .quire-contributor {
+        margin-right: 0;
+        margin-left: 2rem;
+      }
+    }
+    &.align-center {
+      justify-content: center;
+      .quire-contributor {
+        margin-right: 2rem;
+        margin-left: 2rem;
+      }
+    }
+  }
+}
+
+// .quire-contributor
+// -----------------------------------------------------------------------------
+.quire-contributor {
+  &:before {
+    display: none !important;
+  }
+  .title {
+    margin-bottom: 0.5rem;
+  }
+
+  .quire-page__content .content &__url {
+    border-bottom-width: 0px;
+    svg {
+      width: 0.875em;
+      height: 0.875em;
+      @if $theme == classic {
+        fill: background-color-text-classic($content-background-color);
+      } @else {
+        fill: $accent-color;
+      }
+    }
+    &:hover {
+      border-bottom-width: 0px !important;
+      svg {
+        fill: link-hover-color($content-background-color);
+      }
+    }
+  }
+
+  &__pic {
+    width: 100%;
+    border-radius: 50%;
+    margin: 0 0 0.8em 0;
+    overflow: hidden;
+  }
+  .media {
+    padding-bottom: 1em;
+  }
+  .media-left {
+    width: 100px;
+  }
+
+  &__bio {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    line-height: inherit;
+
+    .has-h5-font-size {
+      margin-bottom: 0.25rem;
+    }
+
+    ul {
+      margin-bottom: 0 !important;
+    }
+
+    @media print {
+      + ul {
+        display: none;
+      }
+    }
+  }
+
+  &__details {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-top: 1rem;
+
+    @media screen and (min-width: $tablet) {
+      display: flex;
+      flex-direction: row;
+      gap: 2rem;
+    }
+
+    p {
+      margin-bottom: 0.5rem !important;
+    }
+  }
+}

@@ -1,0 +1,77 @@
+// =============================================================================
+// Quire-buttons.scss
+// -----------------------------------------------------------------------------
+//
+// Reusuable code for the prev/next buttons at the bottom of each page.
+
+// .quire-contents-buttons
+// -----------------------------------------------------------------------------
+.quire-contents-buttons {
+  width: 100%;
+  display: block;
+  text-align: center;
+  padding-bottom: 3em;
+  padding-top: 2em;
+
+  &--fixed {
+    position: fixed;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+  }
+
+  li.quire-nav-button {
+    display: inline-block;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    font-size: 1rem;
+    border: 1px solid white;
+    color: white;
+    background: $vam-charcoal;
+    vertical-align: middle;
+
+    a {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      min-width: 105px;
+      height: 48px;
+      margin-top: 0;
+      font-family: $quire-navigation-font;
+      font-size: 1rem;
+      color: currentColor;
+    }
+
+    &.prev {
+      margin-left: 0;
+      margin-right: 0.55rem;
+    }
+
+    svg {
+      width: 20px;
+      height: 20px;
+      margin-left: -0.25rem;
+      margin-right: -0.5rem;
+      fill: currentColor;
+    }
+
+    .nav-title {
+      vertical-align: super;
+    }
+
+    &:hover {
+      background: #484a4f;
+    }
+
+    &.prev {
+      svg {
+        margin-right: 0.5rem;
+        margin-left: -0.5rem;
+      }
+    }
+  }
+}
