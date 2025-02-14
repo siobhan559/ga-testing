@@ -1,0 +1,96 @@
+name: deploy-staging
+
+run-name: ${{ github.actor }} is rebuilding the site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy
+    runs-on: macos-12
+    steps:
+        - name: Setup Project
+          uses: actions/checkout@v4
+        
+        - name: Install Node
+          uses: actions/setup-node@v3
+          with:
+            node-version: '18'
+            cache: 'npm'
+            cache-dependency-path: package-lock.json
+        
+        #- name: Install Quire and Dependencies
+        #  run: npm ci
+        
+        - name: Install Quire
+          run: npm install --global @thegetty/quire-cli
+        
+        - name: Setup Quire Project
+          run: |
+            quire new research-project
+        
+        - name: Remove starter files
+          run: |
+            rm -rf ./research-project/content/_assets/images/  
+            rm -rf ./research-project/content/_data/figures.yaml
+            rm -rf ./research-project/content/_data/publication.yaml
+            rm ./research-project/content/*.md
+            rm ./research-project/content/_assets/styles/custom.css
+            rm -rf ./research-project/content/_assets/downloads/
+
+        - name: Replace starter files with content files
+          run: |
+            #cp -r ./content/_assets/images/ ./research-project/content/_assets/images/
+            cp -r ./custom-theming/ ./research-project/
+            cp -r ./issue-01-autumn-2008/figures.yaml ./research-project/content/_data/
+            cp -r ./issue-01-autumn-2008/publication.yaml ./research-project/content/_data/
+            cp ./issue-01-autumn-2008/*.md ./research-project/content/
+            #cp ./custom.css ./research-project/content/_assets/styles/
+            #cp -r ./content/_assets/downloads/ ./research-project/content/_assets/downloads/
+
+        - name: Build new site
+          run: |
+            cd ./research-project/
+            quire build
+
+        #- name: Build pdf
+        #  run: |
+        #    pwd
+        #    cd ./build/
+        #    pwd 
+        #    quire pdf
+        #    pwd
+        #    mv ./pagedjs.pdf ./_site/recasting-antiquity.pdf
+
+        - name: Check project files
+          run: |
+            ls -la ./research-project/
+
+        - name: Log project dependencies
+          run: |
+            cat ./research-project/package-lock.json > ./package-lock.json
+        
+        #- name: Save dependencies for caching
+        #  uses: EndBug/add-and-commit@v9
+        #  with:
+        #    add: './package-lock.json'
+        #    message: 'Updating node dependencies from previous build'
+
+        #- name: Copy CNAME record
+        #  run: cp ./CNAME ./build/_site/
+
+        - name: Check website files
+          run: |
+            ls -la ./research-project/_site/
+
+        - name: Deploy
+          uses: peaceiris/actions-gh-pages@v3
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./research-project/_site/
