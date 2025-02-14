@@ -1,0 +1,60 @@
+// =============================================================================
+// Font Family Imports
+// -----------------------------------------------------------------------------
+
+@font-face {
+  font-display: swap;
+  font-family: "Spiller";
+  src: font("spiller/Spiller-Upright-weight-VF-Web-V2.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+}
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "Spiller";
+//   font-style: italic;
+//   src: font("spiller/Spiller-Italic-weight-VF-Web.woff2") format("woff2");
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerContrast";
+//   src: font("spiller/SpillerContrast-Upright-contrast_weight-VF-Web.woff2") format("woff2")
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerContrastItalic";
+//   src: font("spiller/SpillerContrast-Italic-contrast_weight-VF-Web.woff2") format("woff2")
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerWidth";
+//   src: font("spiller/SpillerWidth-Upright-width_weight-VF-Web.woff2") format("woff2")
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerWidthItalic";
+//   src: font("spiller/SpillerWidth-Italic-width_weight-VF-Web.woff2") format("woff2")
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerRounded";
+//   src: font("spiller/SpillerRounded-Upright-weight-VF-Web.woff2") format("woff2")
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerSerif";
+//   src: font("spiller/SpillerSerif-Upright-weight-VF-Web.woff2") format("woff2")
+// }
+
+// @font-face {
+//   font-display: swap;
+//   font-family: "SpillerSerifItalic";
+//   src: font("spiller/SpillerSerif-Italic-weight-VF-Web.woff2") format("woff2")
+// }

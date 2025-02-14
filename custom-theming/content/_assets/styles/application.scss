@@ -1,0 +1,42 @@
+// =============================================================================
+// Application.scss
+// -----------------------------------------------------------------------------
+@import "bulma/sass/utilities/initial-variables.sass";
+@import "colors";
+@import "variables";
+
+
+// =============================================================================
+// V&A Theme/Variable Overrides
+// -----------------------------------------------------------------------------
+@import "custom/1-variable-overrides";
+@import "custom/2-font-imports";
+
+
+// Bulma Overrides
+// -----------------------------------------------------------------------------
+// This Quire theme is built on the Bulma CSS framework (https://bulma.io/), the
+// following variables are standard in Bulma, but are also used in, and
+// in some cases modified for, Quire as well.
+$gap: 16px;
+$tablet: 500px;
+$desktop: 700px;
+$fullhd: 1344px + (2 * $gap);
+$widescreen: 1152px + (2 * $gap);
+$box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;
+
+:root {
+  --gap: #{$gap};
+}
+
+@import "bulma-components";
+@import "utilities";
+@import "layout";
+@import "components/all";
+@import "print";
+
+
+// =============================================================================
+// V&A Style Overrides
+// -----------------------------------------------------------------------------
+@import "custom/components";

@@ -1,0 +1,25 @@
+// =============================================================================
+// V&A Variable Overrides
+// -----------------------------------------------------------------------------
+
+// Colours
+$vam-charcoal: #1d1e20;
+
+// Fonts
+$spiller-sans: 'Spiller', Arial, Helvetica, sans-serif;
+
+// Navbar Overrides
+$quire-navbar-color: $vam-charcoal;
+$quire-navbar-text-color: #fff;
+
+// Font overrides
+$quire-primary-font: $spiller-sans;
+$quire-headings-font: $spiller-sans;
+$quire-footnotes-font: $spiller-sans;
+$quire-navigation-font: $spiller-sans;
+
+// Color overrides
+$accent-color: black;
+//$content-background-color: $vam-charcoal;
+$content-background-color: white;
+$secondary-background-color: black;

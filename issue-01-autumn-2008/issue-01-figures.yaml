@@ -1,0 +1,272 @@
+figure_list:
+
+  - id: lange
+    src: figures/lange.jpg
+    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
+    credit: Library of Congress Prints and Photographs Division
+    alt: 
+
+  - id: christopher-breward
+    src: https://www.vam.ac.uk/__data/assets/image/0003/225993/christopher_breward_610x915.jpg
+    caption: "*Christopher Breward, Acting Head of Research, V&A*"
+    credit: 
+    alt: Christopher Breward
+
+  - id: owen-jones1
+    src: https://www.vam.ac.uk/__data/assets/image/0006/225996/owen_jones_ornament_1_290x290.jpg
+    caption: "*The Grammar of Ornament, ‘Indian No. 4’ (example 11)*, by Owen Jones"
+    credit: 
+    alt: Decorated border with colourful pattern
+
+  - id: michele-walker1
+    src: https://www.vam.ac.uk/__data/assets/image/0007/189484/memoriam_michele_walker_2002.jpg
+    caption: "*Memoriam* by Michele Walker, 2002. Plastic and steel wire wool."
+    credit: Photograph © Stevel Gorton
+    alt: Black rectangular artwork with fluffy edges
+
+  - id: michele-walker2
+    src: https://www.vam.ac.uk/__data/assets/image/0012/189489/study_memoriam_michele_walker.jpg
+    caption: "*Study for Memoriam* by Michele Walker, 2002. Plastic, steel wire wool, lace."
+    credit: Photograph © Michele Walker
+    alt: Black rectangular artwork with fluffy edges
+
+  - id: james-stuart1
+    src: https://www.vam.ac.uk/__data/assets/image/0016/208402/50987-large.jpg
+    caption: "James Stuart – *View of the back of the Temples of Rome and Augustus*, Pola. 1750-6. Gouache. 29.5 × 47cm."
+    credit: RIBA Library Drawings Collection, SD146/7
+    alt: Landscape painting with figures and a donkey
+
+  - id: james-stuart2
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50985-large.jpg
+    caption: "James Stuart – *View of the Arch of the Sergii (Porta Aurata) at Pola*. 1750-60. Gouache. 25.5 x 39cm."
+    credit: RIBA Library Drawings Collection, SD146/8
+    alt: Landscape painting with line of farm animals and a cart
+
+  - id: james-stuart3
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50986-large.jpg
+    caption: "James Stuart – *View of the Temples of Rome and Augustus, Pola.*. 1750-60. Gouache. 29.5 x 47cm."
+    credit: RIBA Library Drawings Collection, SD146/6
+    alt: Figures in front of a temple
+
+  - id: james-stuart4
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50988-large.jpg
+    caption: "James Stuart – *View of the Amphitheatre at Pola from the west.*. 1750-60. Gouache. 29.5 x 47cm."
+    credit: RIBA Library Drawings Collection, SD146/4
+    alt: James Stuart, View of the Amphitheatre at Pola from the west. RIBA Library Drawings Collection
+
+  - id: james-stuart5
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50989-large.jpg
+    caption: "James Stuart – *View of the interior of the Amphitheatre at Pola.*. 1750-60. Gouache. 29 x 46.5cm."
+    credit: RIBA Library Drawings Collection, SD146/5
+    alt: Interior of the Amphitheatre at Pola
+
+  - id: james-stuart6
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50990-large.jpg
+    caption: "James Stuart – *View of the Temple of Apollo at Corinth*. 1750-60. Gouache. 29 x 46.5cm."
+    credit: RIBA Library Drawings Collection, SD146/2
+    alt: The Temple of Apollo at Corinth with figures on a road in front of it
+
+  - id: james-stuart7
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50993-large.jpg
+    caption: "James Stuart – *View of a Stoa or Portico*. 1750-60. Gouache. 26.5 x 38.5cm."
+    credit: RIBA Library Drawings Collection, SD145/5
+    alt: View across rooftops towards a Stoa or Portico. RIBA Library Drawings Collection
+
+  - id: james-stuart8
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50995-large.jpg
+    caption: "James Stuart – *View of the Gate of Athene Archegetis, Athens*. 1750-60. Gouache. 30.5 x 46.5cm."
+    credit: RIBA Library Drawings Collection, SD145/1
+    alt: A stone street in front of a tall gate with columns
+
+  - id: james-stuart9
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50996-large.jpg
+    caption: "James Stuart – *View of the Temple of Theseus, Athens from the South West.*. 1750-60. Gouache. 30.5 x 46.5cm."
+    credit: RIBA Library Drawings Collection, SD145/8
+    alt: A temple on a hill
+
+  - id: james-stuart10
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50997-large.jpg
+    caption: "James Stuart – *View of the Ionic Temple on the River Ilissus near Athens.*. 1750-60. Gouache. 30.5 x 46.5cm."
+    credit: RIBA Library Drawings Collection, SD145/2
+    alt: An Ionic Temple on the River Ilissus near Athens
+
+  - id: james-stuart11
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/50998-large.jpg
+    caption: "James Stuart – *View of the Bridge over the Ilissus River connecting the Panathenaic Stadium with the city of Athens.*. 1750-60. Gouache. 29 x 46 cm."
+    credit: RIBA Library Drawings Collection, SD146/1
+    alt: A bridge bridge over the Ilissus River connecting the Panathenaic Stadium with the city of Athens
+
+  - id: james-stuart12
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51002-large.jpg
+    caption: "James Stuart – *View of the Arch of Hadrian, Athens.*. 1750-60. Gouache. 28.5 x 38.5cm."
+    credit: RIBA Library Drawings Collection, SD145/9
+    alt: The Arch of Hadrian
+
+  - id: james-stuart13
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51003-large.jpg
+    caption: "James Stuart – *View of the Theatre of Bacchus.*. 1750-60. Gouache. 27 x 38.5cm."
+    credit: RIBA Library Drawings Collection, SD145/7
+    alt: The Theatre of Bacchus shown against a moody sky
+
+  - id: james-stuart14
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51004-large.jpg
+    caption: "James Stuart – *View of the Choragic Monument of Lysicrates or 'Lanthorn of Demosthenes'.*. 1750-60. Gouache. 27 x 38.5cm."
+    credit: RIBA Library Drawings Collection, SD145/4
+    alt: The Choragic Monument of Lysicrates or 'Lanthorn of Demosthenes' with a monk in a garden
+
+  - id: james-stuart15
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51005-large.jpg
+    caption: "James Stuart – *View of the Tower of the Winds, Athens.*. 1750-60. Gouache. 31.5 x 43cm."
+    credit: RIBA Library Drawings Collection, SD145/3
+    alt: A moutainous scene with a castle
+
+  - id: james-stuart16
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51007-large.jpg
+    caption: "James Stuart – *View of the Monument of Philopappus, Athens.*. 1750-60. Gouache. 29.5 x 45.5cm."
+    credit: RIBA Library Drawings Collection, SD145/10
+    alt: A ruined monument on a hill
+
+  - id: james-stuart17
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51009-large.jpg
+    caption: "James Stuart – *View of the Caryatid Porch, the Erechtheion, the west end of the Temple of Minerva Polias, and the Pandrosium on the Acropolis, Athens.*. 1750-60. Gouache. 26.5 x 38.5cm."
+    credit: RIBA Library Drawings Collection, SD145/6
+    alt: A temple with figures in front of it
+
+  - id: james-stuart18
+    src: http://media.vam.ac.uk/feature/lightbox/v1/album_images/51010-large.jpg
+    caption: "James Stuart – *View of the Incantada or Propylaea of the Hippodrome, Salonica.*. 1750-60. Gouache. 31.5 x 46cm."
+    credit: RIBA Library Drawings Collection, SD146/3
+    alt: The Incantada or Propylaea of the Hippodrome in disrepair
+
+  - id: communities-of-practice1
+    src: https://www.vam.ac.uk/__data/assets/image/0010/229654/50974-large_610x344.jpg
+    caption: "The creative activity spectrum."
+    credit: 
+    alt: 
+
+  - id: value-of-arts1
+    src: https://www.vam.ac.uk/__data/assets/image/0011/208388/50960-large.jpg
+    caption: "Mug, dated 1701, probably made in Burslem, England. Museum no. C.120-1938"
+    credit: 
+    alt: A decorated yellow mug
+
+  - id: value-of-arts2
+    src: https://www.vam.ac.uk/__data/assets/image/0003/208389/50961-large.jpg
+    caption: "*The Mazarin Chest*, Japan, c. 1640. Museum no. 2-1882"
+    credit: 
+    alt: Highly decorated chest showing a landscape
+
+  - id: value-of-arts3
+    src: https://www.vam.ac.uk/__data/assets/image/0004/208390/50962-large.jpg
+    caption: "Embroidered Parsi girl’s satin blouse. Museum no 800-1852"
+    credit: 
+    alt: Embroidered satin blouse
+
+  - id: oliver-messel1
+    src: https://www.vam.ac.uk/__data/assets/image/0010/208990/51067-large.jpg
+    caption: "Set design by Oliver Messel for the film *Suddenly, Last Summer*, directed by Joseph L. Mankiewicz, Columbia Pictures, 1959. Watercolour on paper. Museum no. S.388-2006"
+    credit: 
+    alt: Set design by Oliver Messel in brown pen and wash
+
+  - id: oliver-messel2
+    src: https://www.vam.ac.uk/__data/assets/image/0008/176138/51068-large.jpg
+    caption: "Design by Oliver Messel for Cleopatra's head-dress in the film of *Caesar and Cleopatra*, directed by Gabriel Pascal, 1946. Watercolour on paper. Museum no. S.368-2006"
+    credit: 
+    alt: Drawing of a design for a headdress
+
+  - id: oliver-messel3
+    src: https://www.vam.ac.uk/__data/assets/image/0009/176139/51069-large.jpg
+    caption: "Fan design by Oliver Messel for the film *Caesar and Cleopatra*, directed by Gabriel Pascal, 1946. Watercolour on paper. Museum no. S.372-2006"
+    credit: 
+    alt: Fan designs
+
+  - id: oliver-messel4
+    src: https://www.vam.ac.uk/__data/assets/image/0019/176140/51070-large.jpg
+    caption: "Furniture design by Oliver Messel for the film *Caesar and Cleopatra*, directed by Gabriel Pascal, 1946. Watercolour on paper. Museum no. S.374-2006"
+    credit: 
+    alt: Furniture design showing an ornate stool
+
+  - id: oliver-messel5
+    src: https://www.vam.ac.uk/__data/assets/image/0020/176141/51072-large.jpg
+    caption: "Set design by Oliver Messel for the film *The Queen of Spades*. directed by Thorold Dickinson, 1949. Watercolour on paper. Museum no.S.391-2006"
+    credit: 
+    alt: Drawing of some steps with a horse and carraige at the top
+
+  - id: oliver-messel6
+    src: https://www.vam.ac.uk/__data/assets/image/0008/208997/51075-large.jpg
+    caption: "Set design by Oliver Messel for the film *The Queen of Spades*, directed by Thorold Dickinson, 1949. Watercolour on paper. Museum no. S.384-2006"
+    credit: 
+    alt: Drawing of a busy market stall filled with cages
+
+  - id: oliver-messel7
+    src: https://www.vam.ac.uk/__data/assets/image/0007/208996/51074-large.jpg
+    caption: "Set design by Oliver Messel for the film *The Queen of Spades*, directed by Thorold Dickinson, 1949. Watercolour on paper. Museum no. S.189-2006"
+    credit: 
+    alt: Drawing of a complicated set of steps and lanterns
+
+  - id: oliver-messel8
+    src: https://www.vam.ac.uk/__data/assets/image/0009/208998/51076-large.jpg
+    caption: "Set design by Oliver Messel for the film *Suddenly, Last Summer*, directed by Joseph L. Mankiewicz. Columbia Pictures, 1959. Watercolour on paper. Museum no. S.387-2006"
+    credit: 
+    alt: Set design showing a large fountain
+
+  - id: oliver-messel9
+    src: https://framemark.vam.ac.uk/collections/2006BK7895/full/220,/0/default.jpg
+    caption: "Photograph of a model for the garden in the film *Suddenly, Last Summer*, directed by Joseph L. Mankiewicz, Columbia Pictures, 1959. Cardboard, glue, papier-mâché, wax. Designed by Oliver Messel. Museum no. S.394-2006"
+    credit: 
+    alt: A model of a garden
+
+  - id: patchwork1
+    src: https://www.vam.ac.uk/__data/assets/image/0020/208262/50814-large.jpg
+    caption: "Figure 4 – Canvas work circle. 2008."
+    credit: Image courtesy of Fine Cell Work, London
+    alt: An embroidered image of a needle and thread
+
+  - id: patchwork2
+    src: https://www.vam.ac.uk/__data/assets/image/0007/208258/50810-large.jpg
+    caption: "Figure 1: Embroidered hexagon. Coloured silks on white cotton ground. 2008."
+    credit: Image courtesy of Fine Cell Work, London
+    alt: An embroidered hexagon of figures with bowed heads
+
+  - id: patchwork3
+    src: https://www.vam.ac.uk/__data/assets/image/0008/208259/50811-large.jpg
+    caption: "Figure 2 – Embroidered and appliquéd hexagon. Coloured wool thread and cotton patches on white cotton ground. 2008."
+    credit: Image courtesy of Fine Cell Work, London
+    alt: Embroidered hexagon with patterns and stylised fingerprint
+
+  - id: patchwork4
+    src: https://www.vam.ac.uk/__data/assets/image/0018/208260/50812-large.jpg
+    caption: "Figure 3 – Canvas work hexagon. 2008."
+    credit: Image courtesy of Fine Cell Work, London
+    alt: Embroidered hexagon with Union Jack
+
+  - id: dorothy-hogg1
+    src: https://www.vam.ac.uk/__data/assets/image/0004/225994/dorothy_hogg_610x344.jpg
+    caption: "Dorothy Hogg, Artist in Residence"
+    credit: 
+    alt: A woman next to a window
+
+  - id: dorothy-hogg2
+    src: https://www.vam.ac.uk/__data/assets/image/0009/207459/48704-large.jpg
+    caption: "Brooch, *Artery* series by Dorothy Hogg MBE. Artist jeweller Dorothy Hogg is the V&A's first artist in residence in partnership with the Craft's Council. Dorothy is a well-known jewellery artist working primarily with precious metals."
+    credit: 
+    alt: Stylised red and silver brooch
+
+  - id: dorothy-hogg3
+    src: https://www.vam.ac.uk/__data/assets/image/0003/207570/49004-large.jpg
+    caption: "Memento Mori by Dorothy Hogg, MBE. Silver and red felt."
+    credit: 
+    alt: Detail of a woman wearing a brooch in silver and red
+
+  - id: dorothy-hogg4
+    src: https://www.vam.ac.uk/__data/assets/image/0007/209095/51254-large.jpg
+    caption: "Necklace, England, about 1815. V&A Museum no. M.290-1976. Seed pearls mounted on mother-of-pearl."
+    credit: 
+    alt: Ornate pearl necklace
+
+  - id: dorothy-hogg5
+    src: https://www.vam.ac.uk/__data/assets/image/0008/209096/51264-large.jpg
+    caption: "Ornament, England, about 1850. Museum no. M.115-1951. Ornament in the shape of a spray of flowers in gold, silver and diamonds."
+    credit: 
+    alt: Flower-shaped ornament sparkling with diamonds
+
