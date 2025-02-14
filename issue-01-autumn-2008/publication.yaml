@@ -1,0 +1,179 @@
+# ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'https://siobhan559.github.io/ga-testing/'
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: Research Journal
+subtitle: Issue No. 1 Autumn 2008
+reading_line:
+short_title:
+
+description:
+  one_line:
+  full: "Quire is a digital publishing framework built on top of the Hugo static site
+    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files."
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2022-12-01 # YYYY-MM-DD
+language: en
+pub_type: journal-periodical # book | journal-periodical | other
+
+identifier:
+  isbn:
+
+publisher:
+  - name: Victoria and Albert Museum
+    location: London
+    url: "https://www.vam.ac.uk"
+    logo:
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears: Edited by Christopher Breward
+
+contributor:
+  - id: cbreward
+    type: primary
+    first_name: Christopher
+    last_name: Breward
+    title: Acting head of research
+    affiliation: Victoria and Albert Museum
+  - id: sashmore
+    type: primary
+    first_name: Sonia
+    last_name: Ashmore
+    title: Research Fellow
+    affiliation: Victoria and Albert Museum
+  - id: spritchard
+    type: primary
+    first_name: Sue
+    last_name: Pritchard
+    title: Curator, Furniture, Textiles & Fashion
+    affiliation: Victoria and Albert Museum
+  - id: jbryant
+    type: primary
+    first_name: Julius
+    last_name: Bryant
+    title: Keeper of the Word and Image Department
+    affiliation: Victoria and Albert Museum
+  - id: jfritsch
+    type: primary
+    first_name: Juliette
+    last_name: Fritsch
+    title: Head of Gallery Interpretation, Evaluation & Resources
+    affiliation: Victoria and Albert Museum
+  - id: gadamson
+    type: primary
+    first_name: Glenn
+    last_name: Adamson
+    title: Head of Graduate Studies/Deputy Head of Research
+    affiliation: Victoria and Albert Museum
+  - id: lmiller
+    type: primary
+    first_name: Liz
+    last_name: Miller
+    title: Curator/Deputy Head of Research
+    affiliation: Victoria and Albert Museum
+  - id: majmar
+    type: primary
+    first_name: Marta
+    last_name: Ajmar
+    title: Tutor in Graduate Studies, Research
+    affiliation: Victoria and Albert Museum
+  - id: klodwick
+    type: primary
+    first_name: Keith
+    last_name: Lodwick
+    title: Assistant Curator, Theatre Collections
+    affiliation: Victoria and Albert Museum
+  - id: csmith
+    type: primary
+    first_name: Claire
+    last_name: Smith
+  - id: sleighton
+    type: primary
+    first_name: Sophie
+    last_name: Leighton
+    title: Curator, Sculpture, Metalwork, Ceramics & Glass
+    affiliation: Victoria and Albert Museum
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: "© Victoria and Albert Museum"
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /_assets/downloads/pagedjs.pdf
+  - type: footer-link
+    name: About
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url: "https://www.vam.ac.uk/info/privacy-notice"
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url: "https://www.vam.ac.uk/info/va-terms-and-conditions"
+  - type: footer-link
+    name: Cookie Policy
+    link_relation: cookie-policy
+    url: "https://www.vam.ac.uk/info/cookie-policy"
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type:
+    name:
+    identifer:
+  - type:
+    name:
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: static-cover.jpg
