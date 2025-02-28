@@ -42,7 +42,7 @@ jobs:
         
         - name: Remove starter files
           run: |
-            rm -rf ./research-project/content/_assets/images/  
+            rm -rf ./research-project/content/_assets/images/*  
             rm -rf ./research-project/content/_data/figures.yaml
             rm -rf ./research-project/content/_data/publication.yaml
             rm ./research-project/content/*.md
