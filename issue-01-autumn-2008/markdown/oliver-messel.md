@@ -1,27 +1,20 @@
-
- 
-
-The film work of stage designer Oliver Messel
+---
+title: The film work of stage designer Oliver Messel
+layout: essay
+order: 600
+contributor:
+  - id: klodwick
 ---
 
+{% figure 'oliver-messel1', 'is-pulled-left' %}
 
-
-
-
-**Keith Lodwick**  
- Assistant Curator, Theatre Collections. V&A
-
-![Set design by Oliver Messel in brown pen and wash](https://www.vam.ac.uk/__data/assets/image/0010/208990/51067-large.jpg)
-  
-Set design by Oliver Messel for the film *Suddenly, Last Summer*, directed by Joseph L. Mankiewicz, Columbia Pictures, 1959. Watercolour on paper. Museum no. S.388-2006
-
-The Oliver Messel Collection consists of around 10,000 individual items and has been housed by the V&A Theatre Collections since 1981. The collection was originally on loan from Lord Snowdon, Messel’s nephew, who inherited the collection on his uncle’s death in 1978. In 1983 the V&A held a major exhibition using the Messel collection as the source material and including many objects on loan from his family, friends and work colleagues, including his sister Anne (Lady Rosse) and his nephew, Thomas Messel.  
+The Oliver Messel Collection consists of around 10,000 individual items and has been housed by the V&A Theatre Collections since 1981. The collection was originally on loan from Lord Snowdon, Messel’s nephew, who inherited the collection on his uncle’s death in 1978. In 1983 the V&A held a major exhibition using the Messel collection as the source material and including many objects on loan from his family, friends and work colleagues, including his sister Anne (Lady Rosse) and his nephew, Thomas Messel.
 
 In 2005, with the support of the Heritage Lottery Fund, the Friends of the V&A and the National Art Collections Fund, the V&A Theatre Collections purchased the collection from Lord Snowdon. Under the funding agreement, the V&A established a touring interactive display using the collection as an inspiration. The Museum also staged a conference held at the Theatre Museum where V&A curators and Messel’s nephew, Thomas, gave papers on Messel’s legacy as an interior, film and stage designer.
 
 ## Oliver Messel (1904 – 1978)
 
-**'I attempted to use every device to make as much magic as possible'. Oliver Messel.**[^1]  
+**'I attempted to use every device to make as much magic as possible'. Oliver Messel.**[^1]
 
 Oliver Messel was the leading British stage designer of the mid-twentieth century. He was born on 13 January 1904 to Maud Frances (1875 – 1960) (daughter of the Punch cartoonist Edward Linley Sambourne (1844 – 1953) and Lieutenant-Colonel Leonard Charles Rudolph Messel (1872 – 1953), a successful banker. Messel began his fifty-year career in 1925 and won international acclaim for his exquisite taste and mastery of period style in revues, plays, films, interiors, buildings, musicals, operas and ballets, becoming one of the most sought-after and highly-paid scenery and costume designers of his era.
 
@@ -29,7 +22,7 @@ Messel was a master of illusion and make-believe; from his early childhood he ma
 
 Messel was a perfectionist who knew exactly how fabric should be cut and how every stage prop should be made. He often demanded items be remade if they were not to his satisfaction. He worked with every major theatre director of his generation and received a CBE in 1958. He designed nine films throughout his career, each displaying his intrinsic knowledge and research for period detail and his flair for creative inventiveness.
 
->  ‘Oliver made a white dress for me with a blue sash worn like a halter, which he made from a wonderful material called lisse, which is finer than organza. He had a sharp eye for what you were and never overdressed me. He made me look like a million dollars’. Eyelyn Laye**[^2]** 
+>  ‘Oliver made a white dress for me with a blue sash worn like a halter, which he made from a wonderful material called lisse, which is finer than organza. He had a sharp eye for what you were and never overdressed me. He made me look like a million dollars’. Eyelyn Laye **[^2]**
 
 Messel had trained as a painter at the Slade School of Art where his contemporaries included Rex Whistler (1905 – 1944). His formal studies concentrated on life drawing and painting, but he also made masks from papier-mâché and wax for student events. An exhibition of his masks at the Claridge Galleries in London in 1925 led to his first stage commission to design masks for the prestigious Diaghilev ballet production of Zéphyre et Flore, performed at the London Coliseum. From 1926 onwards, Charles B. Cochran engaged Messel to design costumes, masks and sets for his annual reviews at the London Pavilion. These reviews consisted of songs, sketches and chorus numbers, and provided Messel with ample opportunities to develop and exercise his talent for minute attention to detail, inventive use of materials and imaginative pastiche of historical periods and styles. This would become Messel’s trademark in whatever medium he worked.
 
@@ -59,21 +52,17 @@ Watching the film today, the sets alternate between Messel’s romantic interior
 
 ## Caesar and Cleopatra (1946)
 
-![Drawing of a design for a headdress](https://www.vam.ac.uk/__data/assets/image/0008/176138/51068-large.jpg)
-  
-Design by Oliver Messel for Cleopatra's head-dress in the film of *Caesar and Cleopatra*, directed by Gabriel Pascal, 1946. Watercolour on paper. Museum no. S.368-2006
+{% figure 'oliver-messel2', 'is-pulled-right' %}
 
 In 1944, Messel began work on a film version of George Bernard Shaw’s stage play Caesar and Cleopatra. The production was directed by Gabriel Pascal, who became the only director trusted by Shaw to film his plays after successful film versions of Pygmalion in 1938 and Major Barbara in 1941.
 
-> ‘Pascal is doing for films what Diaghilev did for ballet’. George Bernard Shaw**[^4]**
+> ‘Pascal is doing for films what Diaghilev did for ballet’. George Bernard Shaw **[^4]**
 
 The film starred Claude Rains as Caesar, Vivien Leigh as Cleopatra, Stewart Granger as Apollodorus and a host of strong English character actors in supporting roles. The production was filmed in Technicolor, and remains the only full production designed by Messel that displays his design work in colour.**[^5]** He was engaged to design costumes, props and interior decoration (sets for the film were by John Bryan) and in this production his talent and skill for creating objects from everyday items and transforming them into something ‘real’ for the screen displays his versatility and creativeness.
 
 During the Second World War, Messel had been stationed in Norwich as Camouflage Officer and it was Messel’s experience of designing camouflage which would be used again in designing Caesar and Cleopatra. Under the conditions of wartime Britain, with strict rationing in place and many shops closing down, materials required for the film were not readily available. Therefore, Messel had to extend the ‘make do and mend’ ethos of wartime Britain into the film’s design. Many of the props required had to be created using what was freely available. Authentic-looking antique Egyptian jewelry was created from thin wire, plastic, cellophane and bits of glass. Gold plates and ornaments were made from a combination of gilded leather and papier-mâché. Many of the costumes were contrived from Indian saris, obtained from some of the large department stores in London which where still functioning. Costume-making workshops were also badly understaffed due to the essential dressmaking workforce having left London due to bombing or on war service.
 
-![Fan designs](https://www.vam.ac.uk/__data/assets/image/0009/176139/51069-large.jpg)
-  
-Fan design by Oliver Messel for the film *Caesar and Cleopatra*, directed by Gabriel Pascal, 1946. Watercolour on paper. Museum no. S.372-2006
+{% figure 'oliver-messel3', 'is-pulled-left' %}
 
 Interiors, decorative hangings and bedspreads were printed in hand-blocked Egyptian and Persian designs, curtains of coupon-free gauze were stencilled with authentic patterns of the period in specially mixed dyes. Messel’s assistants on the film included Eleanor Abbey, Margaret Furse, Beatrice Dawson, Arthur Boys and Matilda Etches, and the small production team worked extremely long hours to sew individual replica jewels onto the costumes. Messel designed the fringed bed hangings in Cleopatra’s bedroom. For the feathered fans used by Cleopatra’s handmaidens in the music room scene, he borrowed some of the large fans from the Messel family home, Nymans, in Sussex (these are now in the Fitzwilliam Museum, Cambridge).
 
@@ -103,9 +92,7 @@ Shaw took a keen interest on almost every level of the film, down to the smalles
 
 Shaw’s letter was accompanied by a water-colour sketch of Britannus’s head.**[^7]**
 
-![Furniture design showing an ornate stool](https://www.vam.ac.uk/__data/assets/image/0019/176140/51070-large.jpg)
-  
-Furniture design by Oliver Messel for the film *Caesar and Cleopatra*, directed by Gabriel Pascal, 1946. Watercolour on paper. Museum no. S.374-2006
+{% figure 'oliver-messel4' %}
 
 The sets for the film which complemented Messel’s interior decoration and costumes were by John Bryan, who had designed Pygmalion and Major Barbara. The ancient Memphis Palace, to which Cleopatra brings Caesar after their encounter at the Sphinx, was the largest interior created for the film. It occupied 28, 000 square feet of floor space and each of its pseudo-granite columns measured nineteen feet in diameter.
 
@@ -115,9 +102,7 @@ The final cost of Caesar and Cleopatra was £1.3 million, the most costly produc
 
 ## The Queen of Spades (1949)
 
-![Drawing of some steps with a horse and carraige at the top](https://www.vam.ac.uk/__data/assets/image/0020/176141/51072-large.jpg)
-  
-Set design by Oliver Messel for the film 'The Queen of Spades'. directed by Thorold Dickinson, 1949. Watercolour on paper. Museum no.S.391-2006
+{% figure 'oliver-messel5', 'is-pulled-left' %}
 
 The film version of Alexander Pushkin’s *The Queen of Spades* is one in a long line of classic British supernatural thrillers such as *Dead of Night* (1945) and *The Innocents* (1961). The story is set in 1806 in St Petersburg and is a Faustian tale of bargains with the devil and ghostly apparitions. The film was directed by Thorold Dickinson, who took over the production at only three days notice. Messel was hired to design the sets and costumes.
 
@@ -129,9 +114,7 @@ The budget ran out before the film was completed and Dickinson was forced to imp
 
 Dickinson created a number of superb sequences in which he uses suggestion to create terror. The visit of the young Countess to the palace of St Germain is worthy of the great English horror director James Whale (Frankenstein, The Bride of Frankenstein). Once at the palace, the camera follows the Countess down the cobwebbed corridor until she comes to a huge door, which opens to reveal a gaping blackness beyond. Messel’s set design for this sequence created the suggestive and eerie atmosphere that Dickinson was able to replicate on film.
 
-![Drawing of a busy market stall filled with cages](https://www.vam.ac.uk/__data/assets/image/0008/208997/51075-large.jpg)
-  
-Set design by Oliver Messel for the film 'The Queen of Spades', directed by Thorold Dickinson, 1949. Watercolour on paper. Museum no. S.384-2006
+{% figure 'oliver-messel6' %}
 
 The lighting of the film adds considerably to the atmosphere. It was predominantly low-key, creating some striking chiaroscuro effects, and brilliantly captures the Messel interiors.The cinematographer was Otto Heller, whose films included *The Ladykillers* (1955), *Peeping Tom* (1960) and *Victim* (1961). Heller used a series of wide-angle lenses to suggest space and width where they did not exist, particularly in a key ballroom scene, where camera trickery was used to deceive the eye. The vertiginous high-angle shot of the young Countess’s arrival at the palace of St Germain was created because they could not afford to build the palace façade. Instead, they created the effect by putting up a corner of a wall with a gargoyle on it, directing lights to give the appearance of an open door and then shooting down onto the carriage. Point-of-view shots were used constantly to disguise the fact that many sets were either small or half-built, or in some cases non-existent.
 
@@ -139,11 +122,9 @@ Dickinson often used shots of visual symbolism, common in the silent film era an
 
 Mirrors are a recurring motif in the film: characters look at themselves at crucial points and their actions are also frequently seen reflected in mirrors. Such devices provide a visual unity to the film which plays creatively off the sets, the movement of the camera and angle of the camerawork.
 
-![Drawing of a complicated set of steps and lanterns](https://www.vam.ac.uk/__data/assets/image/0007/208996/51074-large.jpg)
-  
-Set design by Oliver Messel for the film *The Queen of Spades*, directed by Thorold Dickinson, 1949. Watercolour on paper. Museum no. S.189-2006
+{% figure 'oliver-messel7', 'is-pulled-right' %}
 
-The scope of Messel’s design in the film is apparent from the set and costume designs held in the V&A collection. Every prop and period detail had been researched meticulously and parts of the set design had a twist. Scenes in the palace of the old Countess had to look as if they had remained unchanged for fifty years. The gilded, rococo elaboration of her state apartments had to appear mellowed under dust and patina; the vaulted hallway and great staircases within her palace also had to strike a sombre note. The squalor of the serfs had to be represented as did many exteriors, including a bird market and a carriage crossing a bridge, which were all filmed indoors.  
+The scope of Messel’s design in the film is apparent from the set and costume designs held in the V&A collection. Every prop and period detail had been researched meticulously and parts of the set design had a twist. Scenes in the palace of the old Countess had to look as if they had remained unchanged for fifty years. The gilded, rococo elaboration of her state apartments had to appear mellowed under dust and patina; the vaulted hallway and great staircases within her palace also had to strike a sombre note. The squalor of the serfs had to be represented as did many exteriors, including a bird market and a carriage crossing a bridge, which were all filmed indoors.
 
 When the film opened in June 1949, it received universal praise from the critics. Dilys Powell wrote in The Sunday Times:
 
@@ -155,17 +136,13 @@ At the end of 1950 The Royal Opera House in London presented its first ever prod
 
 ## Suddenly last summer
 
-![Set design showing a large fountain](https://www.vam.ac.uk/__data/assets/image/0009/208998/51076-large.jpg)
-  
-Set design by Oliver Messel for the film *Suddenly, Last Summer*, directed by Joseph L. Mankiewicz. Columbia Pictures, 1959. Watercolour on paper. Museum no. S.387-2006
+{% figure 'oliver-messel8' %}
 
-Messel’s last film was based on Tennessee Williams’s stage play *Suddenly, Last Summer*. The film was directed by Joseph L. Mankiewicz from a screenplay by Gore Vidal with an all-star cast in the leading roles – Katharine Hepburn, Montgomery Clift and Elizabeth Taylor. Filmed in Shepperton Studios near London, Messel’s sub- tropical deep-south jungle set for Mrs Venables’ house, with its larger than life exotic garden containing huge and menacing plants, was reminiscent in style of his exterior stage settings for The Little Hut, Ring Round the Moon and The House of Flowers. The garden became the main set piece where many key scenes take place, creating an essentially claustrophobic and over-powering presence in the film.  
+Messel’s last film was based on Tennessee Williams’s stage play *Suddenly, Last Summer*. The film was directed by Joseph L. Mankiewicz from a screenplay by Gore Vidal with an all-star cast in the leading roles – Katharine Hepburn, Montgomery Clift and Elizabeth Taylor. Filmed in Shepperton Studios near London, Messel’s sub- tropical deep-south jungle set for Mrs Venables’ house, with its larger than life exotic garden containing huge and menacing plants, was reminiscent in style of his exterior stage settings for The Little Hut, Ring Round the Moon and The House of Flowers. The garden became the main set piece where many key scenes take place, creating an essentially claustrophobic and over-powering presence in the film.
 
 Messel’s research into capturing the New Orleans French Quarter atmosphere was as extensive as always. Images of buildings, balconies, squares, gates, and, for the extraordinary garden, photographs of prehistoric forests and plants, are all contained in the V&A collection.Messel once again engaged Hugh Skillan to assist him on the film. Skillan had worked with Messel since 1942; his headdresses were so light and excellent in construction that artists found them comfortable to wear. Skillan worked on making the insect-eating plants and out-sized exotic foliage. Messel made banana leaves with waxed crinkle paper and then mixed them with real plants; he also made vines from paper twisted round in coils and then covered with pale green flock. Over seventy different varieties of plants were used on the set and mixed with a painted backdrop; the effect was that of a monstrous jungle.
 
-![A model of a garden](https://framemark.vam.ac.uk/collections/2006BK7895/full/1000,/0/default.jpg)
-  
-Photograph of a model for the garden in the film *Suddenly, Last Summer*, directed by Joseph L. Mankiewicz, Columbia Pictures, 1959. Cardboard, glue, papier-mâché, wax. Designed by Oliver Messel. Museum no. S.394-2006
+{% figure 'oliver-messel9', 'is-pulled-left' %}
 
 In one scene which takes place in Sebastian’s studio, Messel has placed masks from his 1920s reviews on the desk and on the walls. Among the set designs for Suddenly, Last Summer are more mundane sketches and ground plans for corridors, offices for the hospital in which Elizabeth Taylor’s character is being held and exteriors for the fictional location, Cabeza de Lobo. The extraordinary baroque lift in which Katharine Hepburn descends for her first entrance was created with John Claridge, who assisted Messel on many projects including the Dorchester Hotel suite created in 1953.
 
@@ -188,21 +165,21 @@ Messel’s creative ingenuity was evident throughout his career in whatever medi
 
 ### Bibliography
 
-Castle, Charles, *Oliver Messel: A Biography* (Thames and Hudson, 1983)  
+Castle, Charles, *Oliver Messel: A Biography* (Thames and Hudson, 1983)
 
-Deans, Marjorie, *Meeting at the Sphinx, Gabriel Pascal’s Production of Bernard Shaw’s Caesar and Cleopatra* (Macdonald & Co, 1946)  
+Deans, Marjorie, *Meeting at the Sphinx, Gabriel Pascal’s Production of Bernard Shaw’s Caesar and Cleopatra* (Macdonald & Co, 1946)
 
-Geist, Kenneth L., *Pictures Will Talk: The Life and Films of Joseph L. Mankiewicz* (Charles Scribner’s Sons, 1978)  
+Geist, Kenneth L., *Pictures Will Talk: The Life and Films of Joseph L. Mankiewicz* (Charles Scribner’s Sons, 1978)
 
-Gutner, Howard, *Gowns by Adrian: The MGM Years 1928–1941* (Harry N. Abrams, 2001)  
+Gutner, Howard, *Gowns by Adrian: The MGM Years 1928–1941* (Harry N. Abrams, 2001)
 
-Lambert, Gavin, *Norma Shearer* (Hodder and Stoughton, 1990)  
+Lambert, Gavin, *Norma Shearer* (Hodder and Stoughton, 1990)
 
-Lambert, Gavin, *On Cukor* (Rizzoli Publishing, 2000)  
+Lambert, Gavin, *On Cukor* (Rizzoli Publishing, 2000)
 
-Pinkham, Roger, ed., *Oliver Messel: An Exhibition held at Victoria and Albert Museum, catalogue to the V&A Exhibition* (V&A Publishing, 1983)  
+Pinkham, Roger, ed., *Oliver Messel: An Exhibition held at Victoria and Albert Museum, catalogue to the V&A Exhibition* (V&A Publishing, 1983)
 
-Richards, Jeffrey, *Thorold Dickinson: A Man and His Films* (Croom Helm Ltd, 1986)  
+Richards, Jeffrey, *Thorold Dickinson: A Man and His Films* (Croom Helm Ltd, 1986)
 
 ### Endnotes
 
@@ -222,4 +199,4 @@ Richards, Jeffrey, *Thorold Dickinson: A Man and His Films* (Croom Helm Ltd, 198
 
 [^8]: Several British actors who appeared in the film went on to become household names; Jean Simmons appears as a harpist in Cleopatra’s private chamber, Roger Moore appeared as a spear carrier and Kay Kendall appeared as one of Cleopatra’s slaves.
 
-[^9]: Powell, Dilys. Film review for *The Queen of Spades*. *The Sunday Times*, 20 March 1949.  
+[^9]: Powell, Dilys. Film review for *The Queen of Spades*. *The Sunday Times*, 20 March 1949.

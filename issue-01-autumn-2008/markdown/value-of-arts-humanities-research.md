@@ -1,27 +1,13 @@
-
- 
-
-The value of arts and humanities research to life in the UK: A museum perspective
 ---
-
-
-
-
-
-**Christopher Breward**  
-Acting Head of Research, V&A
-
-
-**Glenn Adamson**  
-Head of Graduate Studies/DeputyHead of Research, V&A
-
-
-**Liz Miller**  
- Curator/DeputyHead of Research, V&A
-
-
-**Marta Ajmar**  
- Tutor in Graduate Studies, Research, V&A
+title: "The value of arts and humanities research to life in the UK: A museum perspective"
+layout: essay
+order: 500
+contributor:
+  - id: cbreward
+  - id: gadamson
+  - id: lmiller
+  - id: majmar
+---
 
 ## Introduction
 
@@ -37,9 +23,7 @@ The most distinctive feature of museum-based research is that it is based on obj
 
 There are multiple advantages to be gained by placing objects at the centre of a collaborative research project, rather than in the margins. First and foremost, artefacts exert friction on the researcher. General theories are invariably tested by the specificity and concreteness of objects, which rarely conform to expectation. Partly for this reason, object-led research is fundamentally interdisciplinary. Fully accounting for the research potential of even a single object might require contributions by historians of art, culture, science, and economics as well as specialists in conservation and other scientific disciplines.
 
-![A decorated yellow mug](https://www.vam.ac.uk/__data/assets/image/0011/208388/50960-large.jpg)
-  
-Mug, dated 1701, probably made in Burslem, England. Museum no. C.120-1938
+{% figure 'value-of-arts1', 'is-pulled-right' %}
 
 Take, for example, the decorated beer mug inscribed '1701'. Such an object can be studied, first of all, on the basis of its appearance. Its somewhat old-fashioned decoration in slip (liquid clay) attests to stylistic conservatism in Staffordshire, the place of its manufacture. Yet if we inquire further, we might find that the mug was implicated in new networks of distribution. The materials used to make it may have been sourced from far away, and the finished object sold in a distant city, or even abroad in America and Europe.
 
@@ -47,9 +31,7 @@ We might ask where and how the mug was used. Through the comparative study of ob
 
 Despite all these benefits, object-based research also poses its own challenges. First and foremost, though museum collections are often defined by the goal of preservation, researchers are forced to think about the objects they hold as dynamic. Unlike most textual forms of historic evidence, material things are subject to constant change through modification, wear and repair. Though authenticity and originality are prized, the fact is that when it comes to objects from the past, alteration is the norm, not the exception.
 
-![Highly decorated chest showing a landscape](https://www.vam.ac.uk/__data/assets/image/0003/208389/50961-large.jpg)
-  
-The Mazarin Chest, Japan, c. 1640. Museum no. 2-1882
+{% figure 'value-of-arts2', 'is-pulled-left' %}
 
 Museum-based conservation offers a disciplinary basis for research into such issues. The techniques of the scientist and the conservator can be used to gain access not only to the moment of an object's creation, but also its entire lifespan: a principle that lies at the heart of the V&A's recent research project focusing on the Mazarin Chest (funded by the Getty Foundation and the Toshiba International Foundation, supported by the Japan Foundation and the Tobunken, and carried out at the V&A, Imperial College, Loughborough University, Dresden Academy of Fine Arts and the Institute of Catalysis and Surface Chemistry, Polish Academy of Sciences). The chest is a most unusual example of seventeenth-century Japanese lacquerwork, of a very high quality that would normally not have been exported to Europe. Its history of ownership permits us to see it in relation to a long series of people and places – from its Japanese makers to its initial owners, the Mazarin family of France, from the Romantic-era collector William Beckford, to the V&A itself (the museum acquired the object in 1882).
 
@@ -65,9 +47,7 @@ Like the objects which form their content, permanent collections such as those h
 
 One of the earliest groups within the Indian textile collections at the V&A consists of examples acquired at the Great Exhibition of 1851. This was the first time that large numbers of the British public had seen what Indian textile producers were capable of. The quality of Indian hand woven silk, embroideries and muslins was unmatched by industrial British textile manufacturers. In the 1860s and 70s many of the South Asian textiles in the collection were cut up and put into two multi-volume sets of textile sample books. These were sent around the country to both inspire designers and manufacturers, and with a view to building up the sales of British textiles to the Indian subcontinent.Forthcoming entries on the V&A website (the non-destructive equivalent of these nineteenth-century albums)about South Asian textiles in the Museum will make relevant images and information on their history, context and use universally available to a UK (and international) audience for the first time since the middle of the nineteenth century.
 
-![Embroidered satin blouse](https://www.vam.ac.uk/__data/assets/image/0004/208390/50962-large.jpg)
-  
-Embroidered Parsi girl's satin blouse. Museum no 800-1852
+{% figure 'value-of-arts3', 'is-pulled-right' %}
 
 The story of the V&A's South Asian textile collection is typical of diaspora narratives, in its mixture of emulation, destruction, and learning. These processes – both positive and negative – are to be found in many other instances of cultural exchange, international trade and migration. Indian textiles, too, include vivid examples of objects whose very surfaces play out the action of far-flung networks in their materials and decoration. The investigation of a distinctive Parsi Chinese embroidery consisting of a coloured embroidery on white silk depicting birds among foliage shaped for a jubla or girl's shirt reveals longer histories and connections. The Parsis of Bombay (Mumbai) were descendants of the Zoroastrians who emigrated to the Indian subcontinent from Iran in the eighth century. Parsi-owned shipping companies traded with China, returning with highly prized Chinese goods including embroidered textiles. Some Chinese embroiderers also settled in Surat, a port city in Gujarat.This single jubla is thus the complex result of the interwoven histories of four nations in two continents spanning twelve centuries. New interpretations fostered through the focused research of such an object (amongst many others) indicate that it is time to move beyond postcolonial hand wringing and progress in our understanding of a shared human past.
 
@@ -122,5 +102,3 @@ These various case studies demonstrate the vibrancy of arts and humanities resea
 ### Acknowledgements
 
 This article was originally commissioned from the V&A by the AHRC in March 2008. We are grateful to them for the invitation and their financial support. The content of the article benefited from contributions by all members of the Research Department at the V&A and members of the Museum's Management Board.
-
- 

@@ -1,17 +1,12 @@
-
- 
-
-In Conversation: Dorothy Hogg, Artist in Residence
+---
+title: "In Conversation: Dorothy Hogg, Artist in Residence"
+layout: essay
+order: 800
+contributor:
+  - id: sleighton
 ---
 
-
-
-**Sophie Leighton**  
- Curator, Sculpture, Metalwork, Ceramics & Glass, V&A
-
-![A woman next to a window](https://www.vam.ac.uk/__data/assets/image/0004/225994/dorothy_hogg_610x344.jpg)
-  
-Dorothy Hogg, Artist in Residence
+{% figure 'dorothy-hogg1', 'is-pulled-left' %}
 
 I peer through the doors of the sparkling new residency studio in the V&A’s Sackler Centre for arts education, where artist Dorothy Hogg is working. Dorothy, a jeweller and metalworker, was awarded a six-month residency here, and has made it her mission to create an inviting workspace. Images of her jewellery line the walls and real examples stand out in cases and on boards, revealing her processes and current work. Examples of workshop booty are pinned up on the wall, alongside explanations of past and future projects linked to Dorothy’s residency at the Museum.
 
@@ -23,9 +18,7 @@ Dorothy’s CV reveals a lifetime of success as a world-renowned maker. In 2001 
 
 Dorothy leads me through a brief history of her jewellery and working processes. She shows me a case she calls her ‘Jewellery Sketchbook’: a beautiful display of three-dimensional ideas; trial runs of techniques and designs. ‘Artists have sketchbooks,’ she remarks, ‘but I wanted to show visitors how metalworkers work’. Dorothy makes sketches in a book, and then, before creating a piece of work, will often trial pieces of her design by making a model or three-dimensional ‘sketch’. This case reveals Dorothy’s interest in the minute details of each object as well as highlighting her technical abilities. She likes to try making parts of an object to see how they work. She is fascinated by craft processes.
 
-![Stylised red and silver brooch](https://www.vam.ac.uk/__data/assets/image/0009/207459/48704-large.jpg)
-  
-Brooch, 'Artery' series by Dorothy Hogg MBE. Artist jeweller Dorothy Hogg is the V&A's first artist in residence in partnership with the Craft's Council. Dorothy is a well-known jewellery artist working primarily with precious metals.
+{% figure 'dorothy-hogg2', 'is-pulled-right' %}
 
 The direction Dorothy’s work takes expresses ideas which relate form to the human body. The sources for these formal interactions spring from a fusion of the subconscious with her visual experience. She explains that while she is at the V&A, she is not looking for inspiration but for a resonance with objects.
 
@@ -37,9 +30,7 @@ A later series of work shows Dorothy’s strong interest in the inherent versati
 
 ‘I’m pretty obsessed with hollow forms’ Dorothy confesses, talking of her more recent work in particular. She makes thin oval tubes of silver, shaping them to her designs. They are organic, flowing forms. ‘I’ve noticed there is often a tension between lines or forms moving in opposite directions in my work’. Proportion is very important. Aiming at something beyond the aesthetic, Dorothy is not only creating ‘something that looks nice – there’s a kind of private language going on’.
 
-![Detail of a woman wearing a brooch in silver and red](https://www.vam.ac.uk/__data/assets/image/0003/207570/49004-large.jpg)
-  
-Memento Mori by Dorothy Hogg, MBE. Silver and red felt.
+{% figure 'dorothy-hogg3', 'is-pulled-left' %}
 
 Dorothy uses colour too. In this recent tubular collection, entitled the ‘Artery Series’ and incorporating pieces such as ‘Memento Mori’, she uses red felt. ‘Not because I like the colour red, but because it is important to use red for its symbolic value’. She used red beads for the neckpiece in the Artery series commissioned for Birmingham Museum and Art Gallery’s collection.
 
@@ -47,11 +38,9 @@ In this piece it looks as though the beads are simply and deftly embedded in the
 
 The residency at the V&A has given Dorothy extensive access to the Museum’s collections. She explains that she is not always interested in the historical dates and details of pieces of the jewellery collection, as much as their aesthetic and technical qualities. She is visually moved.  When ‘devouring the collection’, as she puts it, she was drawn to objects such as a plain ring. ‘It was a very simple ring of lovely proportion but it had changed dimension by being worn. You could see it had a history’. Dorothy is interested in the stories that objects can tell.
 
-Dorothy looks at objects through maker’s eyes. Another piece that caught her eye was a seed pearl necklace (right) strung together with horsehair. In this case she was intrigued by the messy patterns that the knots created at the back of the necklace.  
+Dorothy looks at objects through maker’s eyes. Another piece that caught her eye was a seed pearl necklace (right) strung together with horsehair. In this case she was intrigued by the messy patterns that the knots created at the back of the necklace.
 
-![Ornate pearl necklace](https://www.vam.ac.uk/__data/assets/image/0007/209095/51254-large.jpg)
-  
-Necklace, England, about 1815. V&A Museum no. M.290-1976. Seed pearls mounted on mother-of-pearl.
+{% figure 'dorothy-hogg4' %}
 
 Dorothy is not intending to emulate these pieces but is fascinated by their design and how they were made. She finds enormous pleasure in looking closely at objects.
 
@@ -65,9 +54,7 @@ Despite the fact that Dorothy can’t use a large flame, she is still using meta
 
 Workshops play a large part in the residency. For the official opening of the Sackler centre on the weekend of 26–9 October 2008, Dorothy is going to run an activity for 4,000 visitors called the ‘Chain of Talent’ project. An oversize chain will be suspended through part of the Museum and visitors will be invited to make a charm to add to this ‘charm bracelet chain of talent’.
 
-![Flower-shaped ornament sparkling with diamonds](https://www.vam.ac.uk/__data/assets/image/0008/209096/51264-large.jpg)
-  
-Ornament, England, about 1850. Museum no. M.115-1951. Ornament in the shape of a spray of flowers in gold, silver and diamonds.
+{% figure 'dorothy-hogg5' %}
 
 For another workshop, Dorothy was inspired by Lady Cory’s corsage ornament (right), a star piece in the V&A’s William and Judith Bollinger Jewellery Gallery. It is an enormous nineteenth-century bodice ornament in the form of a bouquet, encrusted with diamonds on springs that tremble elegantly with the movement of the wearer. I can see that Dorothy is interested in how this piece of jewellery changes in sync with the wearer’s movements. Dorothy recognises the potential of this quivering jewellery and how it could be applied to a project for school children. They will develop designs for brooches and door plaques, and the separate elements of the designs will tremble on small springs. Some examples are pinned to her wall, demonstrating the impressive effects achieved with basic materials. It must be great fun too.
 

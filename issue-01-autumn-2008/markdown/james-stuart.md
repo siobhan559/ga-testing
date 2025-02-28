@@ -1,98 +1,28 @@
-
- 
-
-James 'Athenian' Stuart: The architect as landscape painter
+---
+title: "James 'Athenian' Stuart: The architect as landscape painter"
+layout: essay
+order: 300
+contributor:
+  - id: jbryant
 ---
 
+{% figure 'james-stuart1', 'is-pulled-left' %}
 
-
-
-
-**Julius Bryant**  
- Keeper of the Word and Image Department, V&A
-
-![Landscape painting with figures and a donkey](https://www.vam.ac.uk/__data/assets/image/0016/208402/50987-large.jpg)
-  
-James Stuart – View of the back of the Temples of Rome and Augustus, Pola. 1750–6. Gouache. 29.5 × 47cm. RIBA Library Drawings Collection, SD146/7
-
-For many visitors to the exhibition *James 'Athenian' Stuart: the Rediscovery of Antiquity* (Bard Graduate Center, New York, 2006–7; Victoria and Albert Museum 15 March – 24 June 2007) the surprise was not the quality of Stuart's lost buildings and interiors so much as the striking examples of his art as a painter. The exhibition featured eighteen landscape views, thirteen of which were engraved for the first two volumes of *Antiquities of Athens* (1762; 1787–9) by Stuart and Nicholas Revett.  
+For many visitors to the exhibition *James 'Athenian' Stuart: the Rediscovery of Antiquity* (Bard Graduate Center, New York, 2006–7; Victoria and Albert Museum 15 March – 24 June 2007) the surprise was not the quality of Stuart's lost buildings and interiors so much as the striking examples of his art as a painter. The exhibition featured eighteen landscape views, thirteen of which were engraved for the first two volumes of *Antiquities of Athens* (1762; 1787–9) by Stuart and Nicholas Revett.
 
 On loan from the Drawings Collection of the Royal Institute of British Architects (RIBA), they had never been exhibited as a group before. They have also never been published and discussed as a group.**[^1]** *Antiquities of Athens* set new standards for archaeological publications, boasting measurements to an impossible hair's-breadth degree of accuracy (one thousandth of an inch, a fraction made meaningless by thermal variation in both instruments and buildings). Stuart had returned from Athens in 1755 but felt driven to such exacting standards by a rushed rival publication, 'Les Ruines des plus beaux monuments de la Grèce' by Julien-David LeRoy (Paris, 1758). Stuart's mathematical calculations sharpened up the measured drawings of buildings that had been made by Revett. Stuart's landscape views also seem to have been sharpened up to outdo the views by LeRoy, whose volume was conceived more in the genre of philosophical travel literature. Far more familiar today are the images of another rival, the fantastical views of Rome by G. B. Piranesi, whose 'Della Magnificenza ed Architettura de' Romani' (1761) was published the year before Stuart and Revett's much-anticipated first volume. Lacking Piranesi's awe-struck admirers, shrunken to exaggerate the apparent scale and sublimity of Rome's monuments, Stuart's views may seem conventional. However, they are worthy of attention and further research in their own right as a contribution to the history of British landscape painting, for their origins in the art of decorating fans, for the unusual use of gouache, and for their exceptional ethnographical content.**[^2]** In their high finish and topographical information they anticipate by two decades the views of Rome and Tivoli by Louis Ducros (1748–1810) that British collectors framed and hung to resemble oil paintings.**[^3]**
 
+{% figuregroup '2', 'james-stuart2, james-stuart3' %}
 
-![Landscape painting with line of farm animals and a cart](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50985-large.jpg)
+{% figure 'james-stuart1' %}
 
-*View of the Arch of the Sergii (Porta Aurata) at Pola, 1750–60*. Gouache, 25.5 × 39cm. RIBA Drawings Collection
+{% figuregroup '3', 'james-stuart4, james-stuart5, james-stuart6, james-stuart7, james-stuart8, james-stuart9' %}
 
-![Figures in front of a temple](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50986-large.jpg)
+{% figuregroup '2', 'james-stuart10, james-stuart11' %}
 
-*View of the Temples of Rome and Augustus, Pola*, 1750–60. Gouache, 29.5 × 47cm
+{% figure 'james-stuart12' %}
 
-![Landscape painting with figures and a donkey](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50987-large.jpg)
-
-*View of the back of the Temples of Rome and Augustus, Pola*, 1750–60. Gouache, 29.5 × 47cm
-
-![James Stuart, View of the Amphitheatre at Pola from the west. RIBA Library Drawings Collection](https://media.vam.ac.uk/feature/lightbox/v1/album_images/50988-large.jpg)
-
-James Stuart, View of the Amphitheatre at Pola from the west. RIBA Library Drawings Collection
-
-*View of the Amphitheatre at Pola from the west*, 1750–60.Gouache, 29.5 × 47cm
-
-![Interior of the Amphitheatre at Pola](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50989-large.jpg)
-
-*View of the interior of the Amphitheatre at Pola*, 1750–60. Gouache, 29 × 46.5cm
-
-![The Temple of Apollo at Corinth with figures on a road in front of it](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50990-large.jpg)
-
-*View of the Temple of Apollo at Corinth*, 1750–60. Gouache, 29 × 46.5cm
-
-![View across rooftops towards a Stoa or Portico](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50993-large.jpg)
-
-*View of a Stoa or Portico*, 1750–60. Gouache, 26.5 × 38.5cm
-
-![A stone street in front of a tall gate with columns](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50995-large.jpg)
-
-*View of the Gate of Athene Archegetis, Athens*, 1750–60. Gouache, 30.5 × 46.5cm
-
-![A temple on a hill](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50996-large.jpg)
-
-*View of the Temple of Theseus, Athens from the South West*, 1750–60. Gouache, 30.5 × 46.5cm
-
-![An Ionic Temple on the River Ilissus near Athens](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50997-large.jpg)
-
-*View of the Ionic Temple on the River Ilissus near Athens*, 1750–60. Gouache, 30.5 × 46.5cm
-
-![A bridge bridge over the Ilissus River connecting the Panathenaic Stadium with the city of Athens](http://media.vam.ac.uk/feature/lightbox/v1/album_images/50998-large.jpg )
-
-*View of the Bridge over the Ilissus River connecting the Panathenaic Stadium with the city of Athens*, 1750–60. Gouache, 29 × 46 cm. RIBA Library Drawings Collection
-
-![The Arch of Hadrian](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51002-large.jpg)
-
-*View of the Arch of Hadrian, Athens*, 1750–60. Gouache, 28.5 × 38.5cm
-
-![The Theatre of Bacchus shown against a moody sky](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51003-large.jpg)
-
-*View of the Theatre of Bacchus*, 1750–60. Gouache, 27 × 38.5cm. RIBA Library Drawings Collection
-
-![The Choragic Monument of Lysicrates or 'Lanthorn of Demosthenes' with a monk in a garden](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51004-large.jpg )
-
-*View of the Choragic Monument of Lysicrates or 'Lanthorn of Demosthenes'*, 1750–60. Gouache, 27 × 38.5cm
-
-![A moutainous scene with a castle](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51005-large.jpg)
-
-*View of the Tower of the Winds, Athens*, 1750–60. Gouache, 31.5 × 43cm
-
-![A ruined monument on a hill](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51007-large.jpg "James Stuart,  View of the Monument of Philopappus")
-
-*View of the Monument of Philopappus, Athens*, 1750–60. Gouache, 29.5 × 45.5cm
-
-![A temple with figures in front of it](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51009-large.jpg "James Stuart,  View of the Caryatid Porch")
-
-*View of the Caryatid Porch, the Erechtheion, the west end of the Temple of Minerva Polias, and the Pandrosium on the Acropolis, Athens*, 1750–60. Gouache, 26.5 × 38.5cm
-
-![The Incantada or Propylaea of the Hippodrome in disrepair](http://media.vam.ac.uk/feature/lightbox/v1/album_images/51010-large.jpg)
- 
-*View of the Incantada or Propylaea of the Hippodrome, Salonica*, 1750–60. Gouache, 31.5 × 46cm
+{% figuregroup '3', 'james-stuart13, james-stuart14, james-stuart15, james-stuart16, james-stuart17, james-stuart18' %}
 
 Since Stuart's death tradition has held that his failure to establish a Grecian style of design, befitting Britain's new supremacy as head of a maritime mercantile empire, was owing to his own laziness, 'epicureanism' and the determined competition of Robert Adam and William Chambers to promote the Roman school. But for much of his career Stuart saw himself primarily as a painter. Unlike Adam he was not groomed in a family of architects; unlike Chambers he had no formal training as an architect in Paris. Apprenticed to the French artist Louis Goupy (*c*.1674–1747), his brother William or their nephew Joseph Goupy (1686–1763), Stuart worked as a fan painter in London until he was twenty-seven; he then walked to Rome, painting fans as he went to pay his way. In the published proposal of 1748 for the Antiquities he explains that he and his collaborator, Revett, have been 'at Rome, where we had already employed 6 or 7 years in the study of Painting'.**[^4]** The exhibition included portraits by Stuart of James Lee (Hunterian Museum and Art Gallery, University of Glasgow) and a self portrait by Revett (RIBA), the journeyman character of which suggests that both painters may have regarded architectural field research as a necessary career change. Stuart's dual interest, together with his standing as a connoisseur and cicerone, is confirmed by a surviving sketchbook, one half of which is devoted to architecture, the other to drafts of a treatise on Venetian painting.**[^5]**
 
@@ -118,7 +48,7 @@ Art history may have been kind to Stuart in leaving lost his endeavours as a his
 
 The influence of Stuart's gouaches should not be underestimated as they were available through engravings and included in public exhibitions. Of the 122 works exhibited by Stuart at the Free Society, eighty-two related to the Antiquities of Athens. As exhibition pieces, they would have promoted the authority of Stuart as an intrepid field researcher and the myth of Greece as both the cradle of civilisation and as a nation under alien occupation. There must be many more awaiting rediscovery. After his death seven were included in the sale of Stuart's effects; two were sold at Phillips in 1799. The present group was donated to the RIBA in 1873.**[^17]** They may be consulted in the RIBA Drawings Collection at the V&A.
 
-### Acknowledgement
+## Acknowledgement
 
 I would like to thank Charles Hind, H. J. Heinz Curator of Drawings at the RIBA, for reading this article and making several helpful suggestions.
 
@@ -157,4 +87,4 @@ I would like to thank Charles Hind, H. J. Heinz Curator of Drawings at the RIBA,
 
 [^16]: Cited in Soros, Susan Weber, ed. *James 'Athenian' Stuart 1713–1718: the Rediscovery of Antiquity*. New Haven and London, Yale University Press, 2006: 297.
 
-[^17]: Originally 20 were donated but two were stolen in the 1960s.  
+[^17]: Originally 20 were donated but two were stolen in the 1960s.

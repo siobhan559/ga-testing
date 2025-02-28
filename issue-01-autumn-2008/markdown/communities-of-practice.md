@@ -1,15 +1,10 @@
-
- 
-
-Can a ‘Communities of Practice’ framework be applied to the creative industries as an identified audience for the V&A?
 ---
-
-
-
-
-
-**Juliette Fritsch**  
- Head of Gallery Interpretation, Evaluation & Resources, V&A
+title: Can a ‘Communities of Practice’ framework be applied to the creative industries as an identified audience for the V&A?
+layout: essay
+order: 400
+contributor:
+  - id: jfritsch
+---
 
 ## 1 Introduction
 
@@ -29,15 +24,15 @@ In response to this, and as part of a long-term programme to revisit the definit
 > * Public relations
 > * Auctioneering
 > * Publishing
-> 
+>
 > 2. Guided discussion and accompanied visit to the V&A with three subjects representing three different CI professions:
-> 
+>
 > * Ceramics
 > * Film production
 > * Architecture
-> 
+>
 > 3. On-line survey of eighty-one participants randomly sampled from fourteen CI professions:
-> 
+>
 > * Architecture
 > * Advertising
 > * Audio-visual and interactive media
@@ -83,9 +78,9 @@ There are three indicators of structure for a community of practice:
 ## 4 Findings: The Creative Industries as a Community of Practice
 
 ### 4.1 The creative activity spectrum.
-The spectrum of occupation within the CI can be said to look like this:  
+The spectrum of occupation within the CI can be said to look like this:
 
-![The creative activity spectrum.](https://www.vam.ac.uk/__data/assets/image/0010/229654/50974-large_610x344.jpg)
+{% figure 'communities-of-practice1' %}
 
 ### 4.2 The Domain, Community, and Practice across the Creative Activity Spectrum.
 Exploring potential indicators of a domain indicating a community of practice, the following shared issues were found to be consistent within the CI:
@@ -158,7 +153,7 @@ According to Wenger, the most successful communities of practice thrive where th
 
 [^9]: Wenger, Etienne. *Communities of Practice: Learning, Meaning, and Identity*. Cambridge, 1999. Lave, Jean. *Situated Learning: Legitimate Peripheral Participation*. Cambridge, 1991.
 
-[^10]: Wenger, Etienne et al. *Cultivating Communities of Practice*. Boston, 2002.  
+[^10]: Wenger, Etienne et al. *Cultivating Communities of Practice*. Boston, 2002.
 
 [^11]: Wenger, Etienne et al. *Cultivating Communities of Practice*. Boston, 2002.
 
