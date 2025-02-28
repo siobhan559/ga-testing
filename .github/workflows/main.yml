@@ -55,7 +55,7 @@ jobs:
             cp -r ./custom-theming/ ./research-project/
             cp -r ./issue-01-autumn-2008/figures.yaml ./research-project/content/_data/
             cp -r ./issue-01-autumn-2008/publication.yaml ./research-project/content/_data/
-            cp ./issue-01-autumn-2008/*.md ./research-project/content/
+            cp ./issue-01-autumn-2008/markdown/*.md ./research-project/content/
             #cp ./custom.css ./research-project/content/_assets/styles/
             #cp -r ./content/_assets/downloads/ ./research-project/content/_assets/downloads/
 
