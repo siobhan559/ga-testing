@@ -46,6 +46,7 @@ jobs:
             rm -rf ./research-project/content/_data/figures.yaml
             rm -rf ./research-project/content/_data/publication.yaml
             rm ./research-project/content/*.md
+            rm -rf ./research-project/catalogue/
             rm ./research-project/content/_assets/styles/custom.css
             rm -rf ./research-project/content/_assets/downloads/
 
