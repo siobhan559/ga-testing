@@ -88,6 +88,10 @@ jobs:
           run: |
             ls -la ./research-project/_plugins/
 
+        - name: Bypass jekyll
+          run: |
+            touch ./research-project/_site/.nojekyll
+
         - name: Log project dependencies
           run: |
             cat ./research-project/package-lock.json > ./package-lock.json
