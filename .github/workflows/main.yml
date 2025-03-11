@@ -113,4 +113,4 @@ jobs:
           uses: peaceiris/actions-gh-pages@v3
           with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./research-project/_site/
+            publish_dir: ./research-project/_site
