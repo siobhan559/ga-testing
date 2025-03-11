@@ -54,7 +54,7 @@ jobs:
             #rm ./research-project/content/_assets/styles/custom.css
             rm -rf ./research-project/content/_assets/downloads/
 
-        - name: Check assets before:
+        - name: Check assets before
           run: |
             ls -la ./research-project/_includes/components/
             ls -la ./research-project/_layouts/
@@ -72,7 +72,7 @@ jobs:
             #cp ./custom.css ./research-project/content/_assets/styles/
             #cp -r ./content/_assets/downloads/ ./research-project/content/_assets/downloads/
 
-        - name: Check assets after:
+        - name: Check assets after
           run: |
             ls -la ./research-project/_includes/components/
             ls -la ./research-project/_layouts/
