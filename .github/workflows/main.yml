@@ -60,7 +60,10 @@ jobs:
             cp ./issue-01-autumn-2008/spiral-overlay.png ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/static-cover.jpg ./research-project/content/_assets/images/
             #cp -r ./custom-theming/ ./research-project/
-            rsync -r --ignore-existing ./custom-theming/ ./research-project/
+            rsync -r ./custom-theming/_includes ./research-project/
+            rsync -r ./custom-theming/_layouts ./research-project/
+            rsync -r ./custom-theming/_plugins ./research-project/
+            rsync -r ./custom-theming/content ./research-project/
             cp -r ./issue-01-autumn-2008/figures.yaml ./research-project/content/_data/
             cp -r ./issue-01-autumn-2008/publication.yaml ./research-project/content/_data/
             cp ./issue-01-autumn-2008/markdown/*.md ./research-project/content/
