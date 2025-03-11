@@ -59,8 +59,8 @@ jobs:
             #cp -r ./content/_assets/images/ ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/spiral-overlay.png ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/static-cover.jpg ./research-project/content/_assets/images/
-            cp -r ./custom-theming/ ./research-project/
-            #rsync -r ./custom-theming/ ./research-project/
+            #cp -r ./custom-theming/ ./research-project/
+            rsync -r --ignore-existing ./custom-theming/ ./research-project/
             cp -r ./issue-01-autumn-2008/figures.yaml ./research-project/content/_data/
             cp -r ./issue-01-autumn-2008/publication.yaml ./research-project/content/_data/
             cp ./issue-01-autumn-2008/markdown/*.md ./research-project/content/
@@ -109,10 +109,6 @@ jobs:
         - name: Check website files
           run: |
             ls -la ./research-project/_site/
-
-        - name: Check built file
-          run: |
-            cat ./research-project/_site/editorial/index.html
 
         - name: Deploy
           uses: peaceiris/actions-gh-pages@v3
