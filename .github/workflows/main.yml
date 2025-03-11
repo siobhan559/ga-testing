@@ -54,6 +54,11 @@ jobs:
             #rm ./research-project/content/_assets/styles/custom.css
             rm -rf ./research-project/content/_assets/downloads/
 
+        - name: Check assets before:
+          run: |
+            ls -la ./research-project/_includes/components/
+            ls -la ./research-project/_layouts/
+
         - name: Replace starter files with content files
           run: |
             #cp -r ./content/_assets/images/ ./research-project/content/_assets/images/
@@ -67,6 +72,11 @@ jobs:
             #cp ./custom.css ./research-project/content/_assets/styles/
             #cp -r ./content/_assets/downloads/ ./research-project/content/_assets/downloads/
 
+        - name: Check assets after:
+          run: |
+            ls -la ./research-project/_includes/components/
+            ls -la ./research-project/_layouts/
+        
         - name: Build new site
           run: |
             cd ./research-project/
