@@ -34,7 +34,9 @@ jobs:
         #  run: npm ci
         
         - name: Install Quire
-          run: npm install --global @thegetty/quire-cli@1.0.0-rc.16
+          run: |
+            npm install --global @thegetty/quire-cli@1.0.0-rc.16
+            npm install --global @thegetty/quire-11ty@1.0.0-rc.16
 
         - name: Check Quire Version
           run: |
@@ -59,8 +61,8 @@ jobs:
             #cp -r ./content/_assets/images/ ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/spiral-overlay.png ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/static-cover.jpg ./research-project/content/_assets/images/
-            cp -r ./custom-theming/ ./research-project/
-            #rsync -r ./custom-theming/_includes/ ./research-project/_includes
+            #cp -r ./custom-theming/ ./research-project/
+            rsync -r ./custom-theming/ ./research-project/
             #rsync -r ./custom-theming/_layouts/ ./research-project/_layouts
             #rsync -r ./custom-theming/_plugins/ ./research-project/_plugins
             #rsync -r ./custom-theming/content/ ./research-project/content
