@@ -44,7 +44,7 @@ jobs:
         
         - name: Setup Quire Project
           run: |
-            quire new research-project
+            quire new research-project --quire-version 1.0.0-rc.16
         
         - name: Remove starter files
           run: |
