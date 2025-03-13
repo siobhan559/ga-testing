@@ -18,10 +18,10 @@ jobs:
         - name: Setup Project
           uses: actions/checkout@v4
 
-        #- name: Log in
-         # run: |
-         #      git config --global user.email "siobhanbrown559@gmail.com"
-          #     git config --global user.name "siobhan559"
+        - name: Log in
+          run: |
+               git config --global user.email "siobhanbrown559@gmail.com"
+               git config --global user.name "siobhan559"
         
         - name: Install Node
           uses: actions/setup-node@v3
