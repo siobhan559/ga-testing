@@ -61,7 +61,7 @@ jobs:
             #cp -r ./content/_assets/images/ ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/spiral-overlay.png ./research-project/content/_assets/images/
             cp ./issue-01-autumn-2008/static-cover.jpg ./research-project/content/_assets/images/
-            cp ./fonts/spiller ./research-project/content/_assets/fonts/
+            cp -r ./fonts/spiller ./research-project/content/_assets/fonts/
             rsync -r ./custom-theming/ ./research-project/
             cp -r ./issue-01-autumn-2008/figures.yaml ./research-project/content/_data/
             cp -r ./issue-01-autumn-2008/publication.yaml ./research-project/content/_data/
